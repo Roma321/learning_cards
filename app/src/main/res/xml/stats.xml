@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats>
+    <card_tries>0</card_tries>
+    <half_learned_cin>0</half_learned_cin>
+    <half_learned_en>0</half_learned_en>
+    <last_word>Тут будет последнее изученное слово</last_word>
+    <learned_cin>0</learned_cin>
+    <learned_en>0</learned_en>
+    <not_learned_cin>0</not_learned_cin>
+    <not_learned_en>0</not_learned_en>
+    <test_success>0</test_success>
+    <test_tries>0</test_tries>
+    <tips>0</tips>
+    <total>0</total>
+    <total_cin>0</total_cin>
+    <total_en>0</total_en>
+</stats>
